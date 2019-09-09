@@ -1,4 +1,7 @@
 # react-chrome-extension-boilerplate
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/react-chrome-extension-boilerplate.svg)](https://greenkeeper.io/)
+
 Chrome Extension Boilerplate for React.js
 
 ### Technologies
